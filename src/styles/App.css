@@ -1,0 +1,7 @@
+.App {
+  min-width: 100vw;
+  height: 647px;
+  max-width: 1000px;
+  max-height: 647px;
+  background: no-repeat url(../images/waldo.png);
+}
