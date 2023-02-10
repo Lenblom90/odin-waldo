@@ -5,3 +5,10 @@
   max-height: 647px;
   background: no-repeat url(../images/waldo.png);
 }
+
+.message {
+  position:'absolute'; 
+  top: 350px; 
+  left: 350px;
+  color: "white";
+}
